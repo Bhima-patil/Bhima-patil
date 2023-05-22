@@ -1,5 +1,5 @@
 Hi there, I'm Bhimaraya Gowda 😃👋
-I'm a DevOps engineer at Minfy
+I'm a DevOps engineer at MinfyTech
 
 🔍 Interests
 Go / Python / Shell Scripting

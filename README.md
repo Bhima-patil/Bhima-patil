@@ -1,6 +1,6 @@
 ![cover image](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif)
 
-[![instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhimarayagoudapatil123@gmail.com) 
+[![instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhimarayagoudapatil) 
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhimarayagouda-patil-76655a1a5)
 
 ### Hi there, I'm Bhimaraya Gowda 😃👋

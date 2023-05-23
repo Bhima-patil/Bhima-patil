@@ -1,4 +1,4 @@
-![DevOps-1024x512](https://github.com/Bhima-patil/Bhima-patil/assets/112846920/8a451b36-553a-4f8a-9ba8-7da939e24879)
+![360_F_396983381_AcuGFHQbNn7D9eercXFpOecN7d7B5F66](https://github.com/Bhima-patil/Bhima-patil/assets/112846920/d920a7f5-4a38-4336-ac71-7c1d034c2b2d)
 [![instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhimarayagoudapatil) 
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhimarayagouda-patil-76655a1a5)
 
